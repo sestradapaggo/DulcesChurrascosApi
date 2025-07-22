@@ -26,7 +26,7 @@ API .NET Minimal para gestionar productos de una tienda de dulces típicos y chu
 
 1. Clona el repositorio  
    ```bash
-   git clone https://github.com/TU_USUARIO/DulcesChurrascosApi.git
+   git clone https://github.com/sestradapaggo/DulcesChurrascosApi.git
    cd DulcesChurrascosApi
 Ajusta la cadena de conexión en appsettings.json
 
